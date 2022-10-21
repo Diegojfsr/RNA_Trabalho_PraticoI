@@ -6,7 +6,6 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-
 #dados de aprendizagem
 url='https://github.com/Diegojfsr/RNA_Trabalho_Pratico_I/blob/main/train.csv?raw=true'
 train = pd.read_csv(url)
